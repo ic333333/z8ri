@@ -1,0 +1,106 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+  @media only screen and (max-device-width: 900px) {
+    /* .menu { width:600px; } */
+    }
+
+  body {
+    background-image: url(https://static.wixstatic.com/media/6efc6e_3c87611cc7a6435b916c10e344c7a170~mv2.jpg/v1/fill/w_498,h_333,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6efc6e_3c87611cc7a6435b916c10e344c7a170~mv2.jpg);
+    width: 1280px;
+    height: 720px;
+    display: center;
+    flex-direction: column;
+    justify-items: center;
+    position: absolute;
+    position: relative;
+    overflow: hidden;
+    zoom: 80%;
+}
+.teste { 
+    position: absolute;
+    justify-content: right;
+    height: 600px;
+    width: 1100px;
+    border: 5px solid #3b3939;
+    padding: 50px;
+    margin: 20px;
+    top: 30px;
+    left: 230px;
+    border-radius: 40px;
+  }
+
+  .lz8ri {
+    display: center;
+    left: 220px;
+    top: 01px;
+    position: relative;
+    text-align: center;
+    justify-items: center;
+    color: white;
+    font-family: 'Arimo';
+  }
+
+  .z8riimg {
+    position: relative;
+    top: 20px;
+    left: 280px;
+  }
+  
+  .namealbum {
+    display: flex;
+    position: relative;    
+    color: #e0dbdb;
+    font-family: 'Arimo';
+    top: 05px;
+    left: 280px;
+  }
+
+
+  .llsoundcloud {
+    display: flex;
+    width: 85px;
+    height: 20px;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 260px;
+    left: 70px;
+    }
+
+.lsoundcloud {
+    display: flex;
+    position: relative;
+    display: inline-block;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #bebcbc;
+    border-radius: 6px;
+    outline: none;
+    transition: 0.3s;
+    left: 280px;
+    top: 01px;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+}
+
+.z8ristationexplanation {
+    display: flex;
+    position: relative;
+    color: #888383;
+    font-family: 'Arimo';
+    font-size: small;
+    top: 400px;
+    left: 330px;
+}
+
+img {
+    max-width: 150px;
+    border-radius: 10px;
+}
+  
+
+  
